@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on IT projects
-- 📫 How to reach me, https://www.linkedin.com/in/mytabassum/
+- 📫 How to reach me, https://www.linkedin.com/in/MYTabassumm/
 
 <!---
 MYTabassum/MYTabassum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
